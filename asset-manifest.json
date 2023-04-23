@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/java-joe-s/static/css/main.c8aca6fc.css",
+    "main.js": "/java-joe-s/static/js/main.0cec9d51.js",
+    "static/media/header.jpg": "/java-joe-s/static/media/header.dd7a4ac19a2012a4858d.jpg",
+    "index.html": "/java-joe-s/index.html",
+    "main.c8aca6fc.css.map": "/java-joe-s/static/css/main.c8aca6fc.css.map",
+    "main.0cec9d51.js.map": "/java-joe-s/static/js/main.0cec9d51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8aca6fc.css",
+    "static/js/main.0cec9d51.js"
+  ]
+}
